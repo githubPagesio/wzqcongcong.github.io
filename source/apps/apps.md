@@ -22,9 +22,9 @@ Now support 2 update modes:
 
 ![iDeviceCleaner](/apps/iDeviceCleaner.png)
 
-Clean junk & crash logs for your iPhone / iPad.
+Clean junk crash logs for your iPhone / iPad.
 
-[Download Latest Release (2.0.2)] [2]
+[Download Latest Release (2.1.0)] [2]
 
 -----
 
@@ -72,7 +72,7 @@ Monitor stock capital flow & stock price of A Stock Market in China (by realtime
 -----
 
 [1]: https://github.com/wzqcongcong/DesktopPainter/releases/download/1.2/DesktopPainter.app.zip
-[2]: https://github.com/wzqcongcong/MyMobileCleaner/releases/download/2.0.2/iDevice.Cleaner.zip
+[2]: https://github.com/wzqcongcong/MyMobileCleaner/releases/download/2.1.0/iDeviceCleaner.app.zip
 [3]: https://github.com/wzqcongcong/MacGuarder/releases/download/1.0/MacGuarder.app.zip
 [4]: https://github.com/wzqcongcong/MouseFrog/releases/download/1.1/MouseFrog.app.zip
 [5]: https://github.com/wzqcongcong/StockDetective/releases/download/1.0/StockDetective.app.zip
