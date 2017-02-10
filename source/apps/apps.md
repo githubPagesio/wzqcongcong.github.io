@@ -3,7 +3,23 @@ date: 2016-12-06 20:27:55
 
 -----
 
-## DesktopPainter
+## ✪ 微信自动抢红包插件
+
+微信自动抢红包插件，越狱版。
+
+支持:
+
+* 插件开关
+* 设置随机延迟
+* 不抢“自己/指定群/指定用户”的红包
+
+![微信自动抢红包插件](/apps/WeChatRedEnvelop.png)
+
+[Install from Cydia (6.5.4)] [0]
+
+-----
+
+## ✪ DesktopPainter
 
 ![DesktopPainter](/apps/DesktopPainter.png)
 
@@ -18,7 +34,7 @@ Now support 2 update modes:
 
 -----
 
-## iDeviceCleaner
+## ✪ iDeviceCleaner
 
 ![iDeviceCleaner](/apps/iDeviceCleaner.png)
 
@@ -28,7 +44,7 @@ Clean junk crash logs for your iPhone / iPad.
 
 -----
 
-## MacGuarder
+## ✪ MacGuarder
 
 ![MacGuarder](/apps/MacGuarder.png)
 
@@ -42,7 +58,7 @@ Lock & Unlock your Mac by iPhone with Bluetooth.
 
 -----
 
-## MouseFrog
+## ✪ MouseFrog
 
 ![MouseFrog](/apps/MouseFrog.png)
 
@@ -57,7 +73,7 @@ Usage:
 
 -----
 
-## StockDetective
+## ✪ StockDetective
 
 ![StockDetective](/apps/StockDetective.png)
 
@@ -71,6 +87,7 @@ Monitor stock capital flow & stock price of A Stock Market in China (by realtime
 
 -----
 
+[0]: http://cydia.saurik.com/package/com.gokustudio.wechatredenvelop/
 [1]: https://github.com/wzqcongcong/DesktopPainter/releases/download/1.2/DesktopPainter.app.zip
 [2]: https://github.com/wzqcongcong/MyMobileCleaner/releases/download/2.1.0/iDeviceCleaner.app.zip
 [3]: https://github.com/wzqcongcong/MacGuarder/releases/download/1.0/MacGuarder.app.zip
