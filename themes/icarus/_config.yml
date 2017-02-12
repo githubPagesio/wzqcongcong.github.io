@@ -3,12 +3,12 @@ logo: # Empty this to unset logo: css/images/logo.png
 
 # Header
 menu:
-  Home: /
-  Archives: archives
+  # Home: /
   # Categories: categories
   # Tags: tags
-  Me: about/me.html
   Apps: apps/apps.html
+  Archives: archives
+  Me: about/me.html
 
 # Content
 excerpt_link: Read More
