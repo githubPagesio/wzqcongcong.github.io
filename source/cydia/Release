@@ -1,0 +1,9 @@
+Origin: 闷骚的悟空
+Label: 闷骚的悟空
+Suite: stable
+Version: 1.0
+Codename: GoKuStudio
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia Repository
+
