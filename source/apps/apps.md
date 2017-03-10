@@ -19,7 +19,9 @@ date: 2016-12-06 20:27:55
 
 ![微信自动抢红包插件](/apps/WeChatRedEnvelop.png)
 
-[Install from Cydia (6.6.0)] [1] or my repository http://hi.zongquan.wang/cydia
+[Install from Cydia (6.6.0)] [1]
+
+My repository http://hi.zongquan.wang/cydia
 
 -----
 
