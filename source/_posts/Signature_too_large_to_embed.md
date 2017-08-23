@@ -13,7 +13,7 @@ tags: [Xcode]
 
 `state.mCMSSize = 9000;`
 
-可以通过 `--signature-size` 这个私有参数来手动控制该限制的值，而不使用这个默认值。该参数并不是 *codesign* 的公开参数。
+可以通过 `--signature-size` 这个[私有参数] [2]来手动控制该限制的值，而不使用这个默认值。该参数并不是 *codesign* 的公开参数。
 
 **具体用法**
 
@@ -35,3 +35,4 @@ tags: [Xcode]
 -----
 
 [1]: https://opensource.apple.com/source/libsecurity_codesigning/libsecurity_codesigning-55037.15/lib/CodeSigner.cpp.auto.html
+[2]: https://opensource.apple.com/source/security_systemkeychain/security_systemkeychain-55202/src/codesign.cpp.auto.html
