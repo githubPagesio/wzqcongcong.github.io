@@ -20,7 +20,7 @@ Substrate for macOS
 
 [Usage](https://github.com/wzqcongcong/macSubstrate/blob/master/README.md)
 
-[Download Latest Release (1.0)](https://github.com/wzqcongcong/macSubstrate/releases/download/1.0/macSubstrate.app.zip)
+[Download Latest Release](https://github.com/wzqcongcong/macSubstrate/releases/latest)
 [Download My Own Plugins](https://github.com/wzqcongcong/macSubstrate/tree/master/Plugins)
 
 -----
@@ -46,7 +46,7 @@ Now support 2 update modes:
 
 iPhone & iPad cleaner for crash logs.
 
-[Download Latest Release (2.1.0)](https://github.com/wzqcongcong/MyMobileCleaner/releases/download/2.1.0/iDeviceCleaner.app.zip)
+[Download Latest Release (2.2.0)](https://github.com/wzqcongcong/MyMobileCleaner/releases/download/2.2.0/iDeviceCleaner.app.zip)
 
 -----
 
