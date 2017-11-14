@@ -6,9 +6,9 @@ menu:
   # Home: /
   # Categories: categories
   # Tags: tags
-  Apps: apps/apps.html
-  Archives: archives
   Me: about/me.html
+  Archives: archives
+  Apps: apps/apps.html
 
 # Content
 excerpt_link: Read More

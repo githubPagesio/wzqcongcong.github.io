@@ -1,5 +1,5 @@
 title: My Apps
-date: 2016-12-06 20:27:55
+date: 2017-11-11 11:11:11
 
 -----
 
@@ -20,8 +20,7 @@ Substrate for macOS
 
 [Usage](https://github.com/wzqcongcong/macSubstrate/blob/master/README.md)
 
-[Download Latest Release](https://github.com/wzqcongcong/macSubstrate/releases/latest)
-[Download My Own Plugins](https://github.com/wzqcongcong/macSubstrate/tree/master/Plugins)
+[![Download Latest Release](/apps/GitHub.png)](https://github.com/wzqcongcong/macSubstrate/releases/latest)
 
 -----
 
@@ -36,17 +35,7 @@ Now support 2 update modes:
 * Use Bing's "Today Image". Update every day.
 * Choose randomly from Bing's images collection. Update by customized period.
 
-[Install from App Store (1.5)](https://itunes.apple.com/app/desktoppainter-automatically-update-wallpapers/id1217834278?l=zh&ls=1&mt=12)
-
------
-
-## ✪ iDeviceCleaner
-
-![iDeviceCleaner](/apps/iDeviceCleaner.png)
-
-iPhone & iPad cleaner for crash logs.
-
-[Download Latest Release (2.2.0)](https://github.com/wzqcongcong/MyMobileCleaner/releases/download/2.2.0/iDeviceCleaner.app.zip)
+[![Download Latest Release](/apps/AppStore.png)](https://itunes.apple.com/cn/app/desktoppainter-automatically-update-wallpapers/id1217834278?l=en&mt=12)
 
 -----
 
@@ -60,7 +49,7 @@ Automatically lock & unlock Mac by iPhone with Bluetooth.
 
 * When iPhone is nearby, your Mac will be unlocked.
 
-[Download Latest Release (1.0)](https://github.com/wzqcongcong/MacGuarder/releases/download/1.0/MacGuarder.app.zip)
+[![Download Latest Release](/apps/GitHub.png)](https://github.com/wzqcongcong/MacGuarder/releases/download/1.0/MacGuarder.app.zip)
 
 -----
 
@@ -75,18 +64,6 @@ Usage:
 1. In **"System Preferences"** -> **"Displays"** -> **"Arrangement"**, arrange your screens according to your own layout.
 2. Hold **[Fn]** and move mouse towards the destination screen. The mouse will jump to the center of that screen instantly :)
 
-[Download Latest Release (1.1)](https://github.com/wzqcongcong/MouseFrog/releases/download/1.1/MouseFrog.app.zip)
-
------
-
-## ✪ StockDetective
-
-![StockDetective](/apps/StockDetective.png)
-
-Monitor capital flow & stock price of A Stock Market by realtime and history.
-
-Support macOS Today Widget.
-
-[Download Latest Release (1.0)](https://github.com/wzqcongcong/StockDetective/releases/download/1.0/StockDetective.app.zip)
+[![Download Latest Release](/apps/GitHub.png)](https://github.com/wzqcongcong/MouseFrog/releases/download/1.1/MouseFrog.app.zip)
 
 -----
