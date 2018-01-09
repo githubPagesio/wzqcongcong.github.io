@@ -27,7 +27,7 @@ widgets:
 - tag
 # - tagcloud
 # - archive
-- adsense
+# - adsense
 thumbnail: true
 
 # Contacts
